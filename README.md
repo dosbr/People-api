@@ -18,4 +18,4 @@
 2. `cd people-api`
 3. `mvn clean package`
 4. `cd target`
-5. `java -jar api-0.0.1-SNAPSHOT.`
+5. `java -jar api-0.0.1-SNAPSHOT.jar`
